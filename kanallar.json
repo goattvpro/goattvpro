@@ -1,2894 +1,2911 @@
-[
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TRT 1 HD",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/trt-1-tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/541"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "ATV HD",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/182711"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "SHOW TV HD",
-        "KanalLOGO": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2588"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL D HD",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209443"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "STAR TV HD",
-        "KanalLOGO": "https://vebu.net/wp-content/uploads/star-tv-3-ocak-2012-3-eylül-2012.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2104"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "FOX TV HD",
-        "KanalLOGO": "https://www.nicepng.com/png/full/9-99565_fox-tv-logo-png.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2585"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV 8 HD",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2586"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV 8.5 HD",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7446"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "BEYAZ TV HD",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123347"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL 7 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/224"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV 360 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/5959"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "A2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/13902"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TEVE 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/249"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TRT 1 HEVC",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225555"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "ATV HEVC",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227677"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "SHOW HEVC",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227680"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL D HEVC",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227681"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "STAR HEVC",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227679"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "FOX HEVC",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227678"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV 8 HEVC",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227682"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "BEYAZ TV HEVC",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/293854"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "EUROSTAR",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1876"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "ATV AVRUPA",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/aa/atv-avrupa-tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7958"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "EURO D",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1877"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "SHOW TURK HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3344"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV 8 INT",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv-8-international-tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1860"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL 7 AVRUPA HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2108"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TRT 4K UHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187758"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TRT 1 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/14487"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "ATV FHD",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187764"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "SHOW TV FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187761"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL D FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187763"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "STAR TV FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187762"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "FOX TV FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187760"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV 8 FHD",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/29894"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV 8.5 FHD",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128279"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "BEYAZ TV FHD",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/29896"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL 7 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128284"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV 360 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202213"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "AKTIF TV BELCIKA HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/133343"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "AKTIF TV BELCIKA",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123007"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "A2 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128278"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TRT 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/185590"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TLC HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/11970"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV 4 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8617"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TRT 3 SPOR - TBMM TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/300087"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TRT TURK",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TGRT EU",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/315"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "SHOW MAX HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3343"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL B",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/276"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TEK RUMELI TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/332555"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "BENGUTURK TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132737"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "BEYKENT TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/5972"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TRT AVAZ HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3625"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "CEM TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202214"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "AKILLI TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2118"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "CAN TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/147686"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "YOL TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2119"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL AVRUPA",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1122"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KOY TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1066"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "SAT7 TURK",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/94551"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KOZA TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123354"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TEMPO TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134421"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "363 TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1880"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "MC EU",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150030"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "UCANKUS TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/306"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV EM",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/199453"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "YILDIZ EN TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150014"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "BBN TURK HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/293339"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "ALANYA POSTA TV HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/260108"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL V (Antalya)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123369"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "HRT AKDENIZ TV (Antalya)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150037"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL 3 (Afyonkarahisar)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/286"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL 68 (Aksaray)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1038"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL 65 (Van)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/382566"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "LIDER TV (Antalya)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/382564"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "OLAY TV (Gaziantep)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/382563"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV DEN (Aydın)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/259868"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "AS TV (Bursa)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2116"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "LINE TV (Bursa)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2107"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TON TV (Canakkale)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123352"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "PAMUKKALE TV (Denizli)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164953"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "DEHA TV DENIZLI",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/5963"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "DRT DENIZLI",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1100"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL 23 (Elazıg)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123353"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL FIRAT (Elazıg)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/89308"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KARDELEN TV (Erzurum)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150019"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL 26 (Eskisehir)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1055"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "ES TV (Eskisehir)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/129034"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL 32 (Isparta)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132752"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "EGE TV (Izmir)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/259869"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV 35 (İzmir)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/280802"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "AKSU TV (Kahramanmaras)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/291"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "BRTV B KRDNIZ (Karabük)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202211"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV1 (Kayseri)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1116"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KENT TURK TV (Kayseri)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123372"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV KAYSERI",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1113"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "RUMELI TV (Kırklareli)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164946"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV 41 (Kocaeli)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/5966"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KON TV (Konya)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1106"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL 42 (Konya)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/238468"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "A VUSLAT TV (Malatya)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/253874"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "ER TV (Malatya)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/5964"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "MANISA TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/244154"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "SUN RTV (Mersin)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/238302"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL 33 (Mersin)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164952"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "ALTAS TV (Ordu)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/14483"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV 52 (Ordu)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/237995"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "CAY TV (Rize)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/273"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV 264 HD (Sakarya)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/259867"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "EDESSA TV (Sanlıurfa)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164948"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "SZC TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/300407"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "4EYLUL TV (Sivas)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/176701"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "VIZYON 58 (Sivas)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/176528"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "GUNEYDOGU TV (Sanlıurfa)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150039"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KADIRGA TV (Trabzon)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/292"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KIBRIS TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164949"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "BRT 1 HD (Kıbrıs)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202209"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "BRT 2 HD (Kıbrıs)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7437"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "BRT 3 HD (Kıbrıs)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164960"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "TV 2020 (Kıbrıs)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/276829"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "ADA TV (Kıbrıs)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7438"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL T (Kıbrıs)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/133336"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KIBRIS GENC TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7439"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "KANAL SIM (Kıbrıs)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150020"
-    },
-    {
-        "KanalKategori": "ULUSAL",
-        "KanalAD": "GUNES TV KKTC",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/292693"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "TRT DIYANET HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3626"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "VAV TV HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/338965"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "MELTEM TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/167460"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "SEMERKAND HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1049"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "KUDUS TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123364"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "TV 5",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "KANAL 58 (Sivas)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/239393"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "GONCA TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150040"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "MEDINE CANLI",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1125"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "LALEGUL TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/167464"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "CAMIA TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/309508"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "KANAL 12",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/253873"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "KABE CANLI",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162412"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "FM TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1070"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "REHBER TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123366"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "DOST TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1053"
-    },
-    {
-        "KanalKategori": "DINI",
-        "KanalAD": "ON4TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/179425"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "TRT HABER HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "NTV HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8465"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "CNN TURK HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128282"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "HABERTURK HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2589"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "A HABER HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/193771"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "TGRT HABER HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/274049"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "BLOOMBERG HT HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/29901"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "24 TV HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7570"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "TVNET HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123306"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "TV 100 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/139579"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "HALK TV HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/288423"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "TELE 1",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134208"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "KRT HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/139912"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "FLASH HABER HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384157"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "SOZCU TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/377644"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "TRT HABER FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128285"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "A HABER FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/193772"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "TGRT HABER",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/313"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "HALK TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/278"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "NTV FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128283"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "TVNET FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202212"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "24 TV FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134410"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "CNN TURK FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/186974"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "ULKE TV HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2099"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "GLOBAL HABER HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1072"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "HABERTURK FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128281"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "AKIT TV HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1069"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "TRT WORLD HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8463"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "TH TURK HABER HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150035"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "A PARA HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/176538"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "A NEWS HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/13901"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "EKOTURK",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/226515"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "ULUSAL TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8154"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "ARTI 1",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/13879"
-    },
-    {
-        "KanalKategori": "HABER",
-        "KanalAD": "UZAY HABER",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123350"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "TRT BELGESEL HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1029"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "TRT BELGESEL FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128286"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "DMAX HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2106"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "BEIN IZ FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/165597"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "BEIN GURME HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130841"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "DISCOVERY CHANNEL HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1528"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "DISCOVERY SCIENCE HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1529"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "NATIONAL GEO HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2629"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "NATIONAL GEO FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/301271"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "NATIONAL GEO WILD HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2026"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "NATIONAL GEO WILD FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240520"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "HISTORY CHANNEL HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2630"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "OUTDOOR CHANNEL FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1007"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "DA VINCI LEARNING HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123305"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "BBC EARTH HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/12511"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "FAST - FUN BOX HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350388"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "DOCUBOX HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350386"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "HABITAT TV FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/416905"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "VIASAT NATURE - HISTORY HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136628"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "VIASAT HISTORY HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350385"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "VIASAT EXPLORE HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350384"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "YABAN TV HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/272"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "TARIM TV HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/244152"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "TGRT BELGESEL",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/314"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "CIFTCI TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/305"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "24 KITCHEN",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128753"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "ANIMAUX HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384166"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "LOVE NATURE HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/235098"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "LOVE NATURE FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384161"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "CHASSE - PÊCHE HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384164"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "ENGLISH CLUB TV FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384163"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "INSIGHT TV FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384162"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "SCIENCE - VIE TV FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384160"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "ID XTRA HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/289003"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "TREK FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384159"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "FASHION TV FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/399027"
-    },
-    {
-        "KanalKategori": "BELGESEL",
-        "KanalAD": "FASHION ONE HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/403228"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "TRT COCUK HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8618"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "NICKTOONS",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/260"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "BOOMERANG HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/176631"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "COCUK SMART HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/139521"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "DISNEY JUNIOR",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7959"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV KRAL SAKIR HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/400399"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV BARBIE HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/400398"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV PEPPA PIG HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/400397"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV MASAL HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/392430"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV SEKER HOCA HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/321697"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV TOM VE JERRY HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299744"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV SEVIMLI DOSTLAR HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299743"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV RAFADAN TAYFA HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299742"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV PIJAMASKELILER HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299741"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV MASA ILE KOCA AYI HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299740"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV CANIM KARDESIM HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299739"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV KUKULI HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164490"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV NILOYA HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164360"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV PEPEE HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164361"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV SIRINLER HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/293696"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "SLTV GULDUY GULDUY COCUK HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299577"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "CBEEBIES",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155571"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "BABY TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7179"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "MINIKA GO TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1021"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "MINIKA COCUK",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1868"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "NICK JR",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/6041"
-    },
-    {
-        "KanalKategori": "COCUK",
-        "KanalAD": "NICKELODEON TURKIYE",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/6053"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "SLTV ARABESK MUZIK FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391845"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "SLTV POP MUZIK FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391632"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "SLTV SLOW MUZIK FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391578"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "DREAM TURK",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1879"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "POWER TURK TV HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/396260"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "POWER TV HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/143084"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "TATLISES TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/5961"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "KRAL POP HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/238"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "KRAL TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/281"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "NR1 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1866"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "NR1 TURK HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227675"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "NR1 DAMAR HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/403226"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "NR1 ASK HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/403225"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "TRT MUZIK FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164959"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "TRT MUZIK",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/263"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "VATAN TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150015"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "EKINTURK TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/293824"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "MCM TOP HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240518"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "MEZZO HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2202"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "ANADOLU DERNEK",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8132"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "MTV HITS",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/260099"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "MTV HITS HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/260098"
-    },
-    {
-        "KanalKategori": "MUZIK",
-        "KanalAD": "TMB",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177141"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SLTV WESTERN HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/403414"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SLTV SINEMA TURK HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/133353"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SLTV ACTION HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8344"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SLTV PREMIUM HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/133813"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SLTV GOLD HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30447"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SLTV KOMEDI HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30448"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SLTV LOCA FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/183224"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SLTV KEMAL SUNAL",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/138595"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SLTV KEMAL SUNAL 1",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162406"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SLTV KEMAL SUNAL 2",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162589"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SLTV YESILCAM 1",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162404"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SLTV YESILCAM 2",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162405"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SLTV YESILCAM 3",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164040"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BEIN MOVIES STARS HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132400"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BEIN MOVIES TURK HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132710"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BEIN MOVIES PREMIER  HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132402"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BEIN MOVIES PREMIER 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132709"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BEIN MOVIES ACTION HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/138922"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BEIN MOVIES ACTION 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132708"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BEIN MOVIES FAMILY HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132398"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BEIN SERIES DRAMA HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134194"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BEIN SERIES SCI-FI HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134192"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BEIN SERIES VICE HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134193"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BEIN SERIES COMEDY HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134195"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BEIN BOX OFFICE 1 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/567"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BEIN BOX OFFICE 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/548"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BEIN BOX OFFICE 3 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/569"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SINEMA TV HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/201417"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SINEMA TV 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/201416"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SINEMA TV YERLI HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/201419"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SINEMA TV YERLI 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/404989"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SINEMA TV AKSIYON HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155746"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SINEMA TV AKSIYON 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132716"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SINEMA TV KOMEDI HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155748"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SINEMA TV KOMEDI 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132717"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SINEMA TV AILE HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155747"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SINEMA TV AILE 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/405208"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SINEMA TV 1001 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162654"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "SINEMA TV 1002 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132712"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MOVIESMART TURK HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132718"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MOVIESMART CLASSIC HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/139527"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "DIZISMART PREMIUM HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132715"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "FX HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130853"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "FOX CRIME HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130852"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BLU TV AKSIYON HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/368289"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BLU TV KOMEDI HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391898"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BLU TV ÖZEL YAPIM HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391897"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BLU TV NOSTALJI HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391896"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX UHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/329697"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/329696"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 1 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202694"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202693"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 3 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202692"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 4 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202690"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 5 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202689"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 6 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202688"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 7 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202687"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 8 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202686"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 9 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202685"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 10 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202676"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 11 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202683"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 12 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202684"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 13 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202680"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 14 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202679"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 15 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202678"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 16 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202677"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 17 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202675"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 18 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202669"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 19 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/201418"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE OFFICE 20 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202663"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE YESILCAM 1 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/417715"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE YESILCAM 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/417714"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE YESILCAM 3 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/417713"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE YESILCAM 4 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/417712"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "CINE YESILCAM 5 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/417711"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "YERLI BOX 1 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/416789"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "YERLI BOX 2 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/416788"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "YERLI BOX 3 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/416787"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "YERLI BOX 4 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/416786"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "YERLI BOX 5 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/416785"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE AKSIYON",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318439"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE CHARLIE CHAPLIN",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318438"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE CHRISTMAS",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318437"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE COCUK",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318436"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE FANTASTIK",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318435"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE GOLD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318434"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE KARATE",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318433"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE KOMEDI",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318432"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE KORKU",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318431"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE MARVEL STUDIOS",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318430"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE MATRIX",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318429"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE NETFLIX",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318428"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE SIYAHBEYAZ",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318427"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE KEMALSUNAL",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318426"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE TESTERE",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318425"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE TURK",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318424"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE WESTERN",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318423"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE YESILCAM",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318422"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP NEOCINE ZOR ÖLÜM",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318421"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP FILMBOX HD AKSIYON",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318419"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP FILMBOX HD FANTASTIK",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318416"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP FILMBOX HD DRAM",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318415"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP FILMBOX HD KOMEDI",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318413"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP FILMBOX HD KORKU",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318412"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "VIP FILMBOX HD YESILCAM",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318409"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "BBC FIRST FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/416906"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "EPIC DRAMA FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/412590"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "FILMBOX ARTHOUSE HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/412589"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "FILMBOX EXTRA FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/412588"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "FILMBOX FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/412587"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX 007 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145095"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX AKSIYON 1 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145094"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX AKSIYON 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145084"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX ANIMASYON 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145093"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX ANIMASYON 1 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145092"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX GOLD HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145090"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX KINO COLLECTION HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145091"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX PLUS HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145089"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX PREMIER HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145088"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX STAR WARS HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145087"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX TURK HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145086"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX VIZYON 1 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202636"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX VIZYON 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145085"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX VIZYON 3 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145083"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX VIZYON 4 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145103"
-    },
-    {
-        "KanalKategori": "SINEMA",
-        "KanalAD": "MAX WESTERN HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145082"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "TRT SPOR HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1028"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "TRT SPOR FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128288"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "TRT SPOR YILDIZ HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/216022"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "A SPOR HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1883"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "A SPOR FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164957"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "TRT SPOR HEVC",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/280799"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "A SPOR HEVC",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/280800"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "TJK",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8571"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "FB TV HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378165"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "FIGHTBOX HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240517"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "TAY TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/129265"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS HABER HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/129036"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS HABER FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/383650"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 1 FHD (HQ)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/138606"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 1 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/269058"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 1 HEVC",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/224566"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 1 HD (LQ)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/6046"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 1 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123295"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 1 HD*",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/374534"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 1 HD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/189369"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 1 FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299611"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 1 4K - UHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/269994"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 1 SD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/138607"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 2 HEVC",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177939"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/631"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 2 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7595"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 2 FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/294661"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 2 SD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371296"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 3 HEVC",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177940"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 3 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162816"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 3 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7596"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 3 SD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/294662"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 4 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123298"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 4 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7597"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS 4 SD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/294663"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS MAX 1 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/114448"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS MAX 1  FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162818"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS MAX 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/114449"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN SPORTS MAX 2 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162819"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN CONNECT HD 1 (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350292"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN CONNECT HD 2 (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350291"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN CONNECT HD 3 (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350290"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN CONNECT HD 4 (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350289"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN CONNECT HD 5 (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350288"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "BEIN CONNECT HD 6 (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350287"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "SPOR SMART HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/286779"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "SPOR SMART FHD*",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/92363"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "SPOR SMART FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/6050"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "SPOR SMART 2 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/236111"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "S SPORT HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/285910"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "S SPORT FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/115503"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "S SPORT 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/193396"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "S SPORT 2 FHD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299043"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "S SPORT+ 1 FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371289"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "S SPORT+ 2 FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371288"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "S SPORT+ 3 FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371287"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "S SPORT+ 4 FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371286"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "S SPORT+ 5 FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371285"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "S SPORT+ 6 FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371284"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "S SPORT+ 7 FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/399026"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 1 FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371283"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 1 HD (LQ) (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/381152"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 1 HD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299610"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 1 SD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/369337"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 2 HD - FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371282"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 3 HD - FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371281"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 4 HD - FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378875"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 5 HD - FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378873"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 6 HD - FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378871"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 7 HD - FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391895"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 8 HD - FHD (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391894"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 1 HD - FHD* (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389174"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 2 HD - FHD* (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389173"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 3 HD - FHD* (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389172"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 4 HD - FHD* (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389171"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 5 HD - FHD* (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389170"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 6 HD - FHD* (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389169"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 7 HD - FHD* (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389168"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "EXXEN SPORT 8 HD - FHD* (Mac Zamani)",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389167"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "TIVIBU SPOR HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1468"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "TIVIBU SPOR 2 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/6049"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "TIVIBU SPOR 3 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/198443"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "TIVIBU SPOR 4 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/386687"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "TIVIBU SPOR 5 HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/399025"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "SPORTS TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2105"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "NBA HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/13245"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "GS TV HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2626"
-    },
-    {
-        "KanalKategori": "SPOR",
-        "KanalAD": "FB TV",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2028"
-    },
-    {
-        "KanalKategori": "EGITIM",
-        "KanalAD": "TRT EBA TV ORTAOKUL HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240531"
-    },
-    {
-        "KanalKategori": "EGITIM",
-        "KanalAD": "TRT EBA TV LISE HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240532"
-    },
-    {
-        "KanalKategori": "EGITIM",
-        "KanalAD": "TRT EBA TV ILKOKUL HD",
-        "KanalLOGO": "",
-        "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240530"
-    }
-]
+{
+	"ULUSAL": [{
+
+			"KanalAD": "TRT 1 HD",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/trt-1-tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/541"
+		},
+		{
+
+			"KanalAD": "ATV HD",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/182711"
+		},
+		{
+
+			"KanalAD": "SHOW TV HD",
+			"KanalLOGO": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2588"
+		},
+		{
+
+			"KanalAD": "KANAL D HD",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209443"
+		},
+		{
+
+			"KanalAD": "STAR TV HD",
+			"KanalLOGO": "https://cdn.freelogovectors.net/wp-content/uploads/2018/04/Star_TV_Logo.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2104"
+		},
+		{
+
+			"KanalAD": "FOX TV HD",
+			"KanalLOGO": "https://www.nicepng.com/png/full/9-99565_fox-tv-logo-png.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2585"
+		},
+		{
+
+			"KanalAD": "TV 8 HD",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2586"
+		},
+		{
+
+			"KanalAD": "TV 8.5 HD",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7446"
+		},
+		{
+
+			"KanalAD": "BEYAZ TV HD",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123347"
+		},
+		{
+
+			"KanalAD": "KANAL 7 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/224"
+		},
+		{
+
+			"KanalAD": "TV 360 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/5959"
+		},
+		{
+
+			"KanalAD": "A2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/13902"
+		},
+		{
+
+			"KanalAD": "TEVE 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/249"
+		},
+		{
+
+			"KanalAD": "TRT 1 HEVC",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225555"
+		},
+		{
+
+			"KanalAD": "ATV HEVC",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227677"
+		},
+		{
+
+			"KanalAD": "SHOW HEVC",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227680"
+		},
+		{
+
+			"KanalAD": "KANAL D HEVC",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227681"
+		},
+		{
+
+			"KanalAD": "STAR HEVC",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227679"
+		},
+		{
+
+			"KanalAD": "FOX HEVC",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227678"
+		},
+		{
+
+			"KanalAD": "TV 8 HEVC",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227682"
+		},
+		{
+
+			"KanalAD": "BEYAZ TV HEVC",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/293854"
+		},
+		{
+
+			"KanalAD": "EUROSTAR",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1876"
+		},
+		{
+
+			"KanalAD": "ATV AVRUPA",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/aa/atv-avrupa-tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7958"
+		},
+		{
+
+			"KanalAD": "EURO D",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1877"
+		},
+		{
+
+			"KanalAD": "SHOW TURK HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3344"
+		},
+		{
+
+			"KanalAD": "TV 8 INT",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv-8-international-tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1860"
+		},
+		{
+
+			"KanalAD": "KANAL 7 AVRUPA HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2108"
+		},
+		{
+
+			"KanalAD": "TRT 4K UHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187758"
+		},
+		{
+
+			"KanalAD": "TRT 1 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/14487"
+		},
+		{
+
+			"KanalAD": "ATV FHD",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187764"
+		},
+		{
+
+			"KanalAD": "SHOW TV FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187761"
+		},
+		{
+
+			"KanalAD": "KANAL D FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187763"
+		},
+		{
+
+			"KanalAD": "STAR TV FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187762"
+		},
+		{
+
+			"KanalAD": "FOX TV FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187760"
+		},
+		{
+
+			"KanalAD": "TV 8 FHD",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/29894"
+		},
+		{
+
+			"KanalAD": "TV 8.5 FHD",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128279"
+		},
+		{
+
+			"KanalAD": "BEYAZ TV FHD",
+			"KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/29896"
+		},
+		{
+
+			"KanalAD": "KANAL 7 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128284"
+		},
+		{
+
+			"KanalAD": "TV 360 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202213"
+		},
+		{
+
+			"KanalAD": "AKTIF TV BELCIKA HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/133343"
+		},
+		{
+
+			"KanalAD": "AKTIF TV BELCIKA",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123007"
+		},
+		{
+
+			"KanalAD": "A2 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128278"
+		},
+		{
+
+			"KanalAD": "TRT 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/185590"
+		},
+		{
+
+			"KanalAD": "TLC HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/11970"
+		},
+		{
+
+			"KanalAD": "TV 4 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8617"
+		},
+		{
+
+			"KanalAD": "TRT 3 SPOR - TBMM TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/300087"
+		},
+		{
+
+			"KanalAD": "TRT TURK",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318"
+		},
+		{
+
+			"KanalAD": "TGRT EU",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/315"
+		},
+		{
+
+			"KanalAD": "SHOW MAX HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3343"
+		},
+		{
+
+			"KanalAD": "KANAL B",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/276"
+		},
+		{
+
+			"KanalAD": "TEK RUMELI TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/332555"
+		},
+		{
+
+			"KanalAD": "BENGUTURK TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132737"
+		},
+		{
+
+			"KanalAD": "BEYKENT TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/5972"
+		},
+		{
+
+			"KanalAD": "TRT AVAZ HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3625"
+		},
+		{
+
+			"KanalAD": "CEM TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202214"
+		},
+		{
+
+			"KanalAD": "AKILLI TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2118"
+		},
+		{
+
+			"KanalAD": "CAN TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/147686"
+		},
+		{
+
+			"KanalAD": "YOL TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2119"
+		},
+		{
+
+			"KanalAD": "KANAL AVRUPA",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1122"
+		},
+		{
+
+			"KanalAD": "KOY TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1066"
+		},
+		{
+
+			"KanalAD": "SAT7 TURK",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/94551"
+		},
+		{
+
+			"KanalAD": "KOZA TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123354"
+		},
+		{
+
+			"KanalAD": "TEMPO TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134421"
+		},
+		{
+
+			"KanalAD": "363 TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1880"
+		},
+		{
+
+			"KanalAD": "MC EU",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150030"
+		},
+		{
+
+			"KanalAD": "UCANKUS TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/306"
+		},
+		{
+
+			"KanalAD": "TV EM",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/199453"
+		},
+		{
+
+			"KanalAD": "YILDIZ EN TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150014"
+		},
+		{
+
+			"KanalAD": "BBN TURK HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/293339"
+		},
+		{
+
+			"KanalAD": "ALANYA POSTA TV HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/260108"
+		},
+		{
+
+			"KanalAD": "KANAL V (Antalya)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123369"
+		},
+		{
+
+			"KanalAD": "HRT AKDENIZ TV (Antalya)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150037"
+		},
+		{
+
+			"KanalAD": "KANAL 3 (Afyonkarahisar)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/286"
+		},
+		{
+
+			"KanalAD": "KANAL 68 (Aksaray)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1038"
+		},
+		{
+
+			"KanalAD": "KANAL 65 (Van)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/382566"
+		},
+		{
+
+			"KanalAD": "LIDER TV (Antalya)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/382564"
+		},
+		{
+
+			"KanalAD": "OLAY TV (Gaziantep)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/382563"
+		},
+		{
+
+			"KanalAD": "TV DEN (Aydın)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/259868"
+		},
+		{
+
+			"KanalAD": "AS TV (Bursa)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2116"
+		},
+		{
+
+			"KanalAD": "LINE TV (Bursa)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2107"
+		},
+		{
+
+			"KanalAD": "TON TV (Canakkale)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123352"
+		},
+		{
+
+			"KanalAD": "PAMUKKALE TV (Denizli)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164953"
+		},
+		{
+
+			"KanalAD": "DEHA TV DENIZLI",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/5963"
+		},
+		{
+
+			"KanalAD": "DRT DENIZLI",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1100"
+		},
+		{
+
+			"KanalAD": "KANAL 23 (Elazıg)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123353"
+		},
+		{
+
+			"KanalAD": "KANAL FIRAT (Elazıg)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/89308"
+		},
+		{
+
+			"KanalAD": "KARDELEN TV (Erzurum)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150019"
+		},
+		{
+
+			"KanalAD": "KANAL 26 (Eskisehir)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1055"
+		},
+		{
+
+			"KanalAD": "ES TV (Eskisehir)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/129034"
+		},
+		{
+
+			"KanalAD": "KANAL 32 (Isparta)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132752"
+		},
+		{
+
+			"KanalAD": "EGE TV (Izmir)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/259869"
+		},
+		{
+
+			"KanalAD": "TV 35 (İzmir)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/280802"
+		},
+		{
+
+			"KanalAD": "AKSU TV (Kahramanmaras)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/291"
+		},
+		{
+
+			"KanalAD": "BRTV B KRDNIZ (Karabük)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202211"
+		},
+		{
+
+			"KanalAD": "TV1 (Kayseri)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1116"
+		},
+		{
+
+			"KanalAD": "KENT TURK TV (Kayseri)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123372"
+		},
+		{
+
+			"KanalAD": "TV KAYSERI",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1113"
+		},
+		{
+
+			"KanalAD": "RUMELI TV (Kırklareli)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164946"
+		},
+		{
+
+			"KanalAD": "TV 41 (Kocaeli)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/5966"
+		},
+		{
+
+			"KanalAD": "KON TV (Konya)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1106"
+		},
+		{
+
+			"KanalAD": "KANAL 42 (Konya)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/238468"
+		},
+		{
+
+			"KanalAD": "A VUSLAT TV (Malatya)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/253874"
+		},
+		{
+
+			"KanalAD": "ER TV (Malatya)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/5964"
+		},
+		{
+
+			"KanalAD": "MANISA TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/244154"
+		},
+		{
+
+			"KanalAD": "SUN RTV (Mersin)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/238302"
+		},
+		{
+
+			"KanalAD": "KANAL 33 (Mersin)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164952"
+		},
+		{
+
+			"KanalAD": "ALTAS TV (Ordu)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/14483"
+		},
+		{
+
+			"KanalAD": "TV 52 (Ordu)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/237995"
+		},
+		{
+
+			"KanalAD": "CAY TV (Rize)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/273"
+		},
+		{
+
+			"KanalAD": "TV 264 HD (Sakarya)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/259867"
+		},
+		{
+
+			"KanalAD": "EDESSA TV (Sanlıurfa)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164948"
+		},
+		{
+
+			"KanalAD": "SZC TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/300407"
+		},
+		{
+
+			"KanalAD": "4EYLUL TV (Sivas)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/176701"
+		},
+		{
+
+			"KanalAD": "VIZYON 58 (Sivas)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/176528"
+		},
+		{
+
+			"KanalAD": "GUNEYDOGU TV (Sanlıurfa)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150039"
+		},
+		{
+
+			"KanalAD": "KADIRGA TV (Trabzon)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/292"
+		},
+		{
+
+			"KanalAD": "KIBRIS TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164949"
+		},
+		{
+
+			"KanalAD": "BRT 1 HD (Kıbrıs)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202209"
+		},
+		{
+
+			"KanalAD": "BRT 2 HD (Kıbrıs)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7437"
+		},
+		{
+
+			"KanalAD": "BRT 3 HD (Kıbrıs)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164960"
+		},
+		{
+
+			"KanalAD": "TV 2020 (Kıbrıs)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/276829"
+		},
+		{
+
+			"KanalAD": "ADA TV (Kıbrıs)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7438"
+		},
+		{
+
+			"KanalAD": "KANAL T (Kıbrıs)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/133336"
+		},
+		{
+
+			"KanalAD": "KIBRIS GENC TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7439"
+		},
+		{
+
+			"KanalAD": "KANAL SIM (Kıbrıs)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150020"
+		},
+		{
+
+			"KanalAD": "GUNES TV KKTC",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/292693"
+		}
+	],
+	"DINI": [{
+
+			"KanalAD": "TRT DIYANET HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3626"
+		},
+		{
+
+			"KanalAD": "VAV TV HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/338965"
+		},
+		{
+
+			"KanalAD": "MELTEM TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/167460"
+		},
+		{
+
+			"KanalAD": "SEMERKAND HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1049"
+		},
+		{
+
+			"KanalAD": "KUDUS TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123364"
+		},
+		{
+
+			"KanalAD": "TV 5",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299"
+		},
+		{
+
+			"KanalAD": "KANAL 58 (Sivas)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/239393"
+		},
+		{
+
+			"KanalAD": "GONCA TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150040"
+		},
+		{
+
+			"KanalAD": "MEDINE CANLI",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1125"
+		},
+		{
+
+			"KanalAD": "LALEGUL TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/167464"
+		},
+		{
+
+			"KanalAD": "CAMIA TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/309508"
+		},
+		{
+
+			"KanalAD": "KANAL 12",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/253873"
+		},
+		{
+
+			"KanalAD": "KABE CANLI",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162412"
+		},
+		{
+
+			"KanalAD": "FM TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1070"
+		},
+		{
+
+			"KanalAD": "REHBER TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123366"
+		},
+		{
+
+			"KanalAD": "DOST TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1053"
+		},
+		{
+
+			"KanalAD": "ON4TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/179425"
+		}
+
+	],
+	"HABER": [{
+
+			"KanalAD": "TRT HABER HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1"
+		},
+		{
+
+			"KanalAD": "NTV HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8465"
+		},
+		{
+
+			"KanalAD": "CNN TURK HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128282"
+		},
+		{
+
+			"KanalAD": "HABERTURK HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2589"
+		},
+		{
+
+			"KanalAD": "A HABER HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/193771"
+		},
+		{
+
+			"KanalAD": "TGRT HABER HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/274049"
+		},
+		{
+
+			"KanalAD": "BLOOMBERG HT HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/29901"
+		},
+		{
+
+			"KanalAD": "24 TV HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7570"
+		},
+		{
+
+			"KanalAD": "TVNET HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123306"
+		},
+		{
+
+			"KanalAD": "TV 100 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/139579"
+		},
+		{
+
+			"KanalAD": "HALK TV HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/288423"
+		},
+		{
+
+			"KanalAD": "TELE 1",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134208"
+		},
+		{
+
+			"KanalAD": "KRT HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/139912"
+		},
+		{
+
+			"KanalAD": "FLASH HABER HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384157"
+		},
+		{
+
+			"KanalAD": "SOZCU TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/377644"
+		},
+		{
+
+			"KanalAD": "TRT HABER FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128285"
+		},
+		{
+
+			"KanalAD": "A HABER FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/193772"
+		},
+		{
+
+			"KanalAD": "TGRT HABER",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/313"
+		},
+		{
+
+			"KanalAD": "HALK TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/278"
+		},
+		{
+
+			"KanalAD": "NTV FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128283"
+		},
+		{
+
+			"KanalAD": "TVNET FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202212"
+		},
+		{
+
+			"KanalAD": "24 TV FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134410"
+		},
+		{
+
+			"KanalAD": "CNN TURK FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/186974"
+		},
+		{
+
+			"KanalAD": "ULKE TV HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2099"
+		},
+		{
+
+			"KanalAD": "GLOBAL HABER HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1072"
+		},
+		{
+
+			"KanalAD": "HABERTURK FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128281"
+		},
+		{
+
+			"KanalAD": "AKIT TV HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1069"
+		},
+		{
+
+			"KanalAD": "TRT WORLD HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8463"
+		},
+		{
+
+			"KanalAD": "TH TURK HABER HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150035"
+		},
+		{
+
+			"KanalAD": "A PARA HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/176538"
+		},
+		{
+
+			"KanalAD": "A NEWS HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/13901"
+		},
+		{
+
+			"KanalAD": "EKOTURK",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/226515"
+		},
+		{
+
+			"KanalAD": "ULUSAL TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8154"
+		},
+		{
+
+			"KanalAD": "ARTI 1",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/13879"
+		},
+		{
+
+			"KanalAD": "UZAY HABER",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123350"
+		}
+
+	],
+	"BELGESEL": [{
+
+			"KanalAD": "TRT BELGESEL HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1029"
+		},
+		{
+
+			"KanalAD": "TRT BELGESEL FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128286"
+		},
+		{
+
+			"KanalAD": "DMAX HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2106"
+		},
+		{
+
+			"KanalAD": "BEIN IZ FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/165597"
+		},
+		{
+
+			"KanalAD": "BEIN GURME HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130841"
+		},
+		{
+
+			"KanalAD": "DISCOVERY CHANNEL HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1528"
+		},
+		{
+
+			"KanalAD": "DISCOVERY SCIENCE HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1529"
+		},
+		{
+
+			"KanalAD": "NATIONAL GEO HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2629"
+		},
+		{
+
+			"KanalAD": "NATIONAL GEO FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/301271"
+		},
+		{
+
+			"KanalAD": "NATIONAL GEO WILD HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2026"
+		},
+		{
+
+			"KanalAD": "NATIONAL GEO WILD FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240520"
+		},
+		{
+
+			"KanalAD": "HISTORY CHANNEL HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2630"
+		},
+		{
+
+			"KanalAD": "OUTDOOR CHANNEL FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1007"
+		},
+		{
+
+			"KanalAD": "DA VINCI LEARNING HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123305"
+		},
+		{
+
+			"KanalAD": "BBC EARTH HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/12511"
+		},
+		{
+
+			"KanalAD": "FAST - FUN BOX HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350388"
+		},
+		{
+
+			"KanalAD": "DOCUBOX HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350386"
+		},
+		{
+
+			"KanalAD": "HABITAT TV FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/416905"
+		},
+		{
+
+			"KanalAD": "VIASAT NATURE - HISTORY HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136628"
+		},
+		{
+
+			"KanalAD": "VIASAT HISTORY HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350385"
+		},
+		{
+
+			"KanalAD": "VIASAT EXPLORE HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350384"
+		},
+		{
+
+			"KanalAD": "YABAN TV HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/272"
+		},
+		{
+
+			"KanalAD": "TARIM TV HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/244152"
+		},
+		{
+
+			"KanalAD": "TGRT BELGESEL",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/314"
+		},
+		{
+
+			"KanalAD": "CIFTCI TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/305"
+		},
+		{
+
+			"KanalAD": "24 KITCHEN",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128753"
+		},
+		{
+
+			"KanalAD": "ANIMAUX HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384166"
+		},
+		{
+
+			"KanalAD": "LOVE NATURE HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/235098"
+		},
+		{
+
+			"KanalAD": "LOVE NATURE FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384161"
+		},
+		{
+
+			"KanalAD": "CHASSE - PÊCHE HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384164"
+		},
+		{
+
+			"KanalAD": "ENGLISH CLUB TV FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384163"
+		},
+		{
+
+			"KanalAD": "INSIGHT TV FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384162"
+		},
+		{
+
+			"KanalAD": "SCIENCE - VIE TV FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384160"
+		},
+		{
+
+			"KanalAD": "ID XTRA HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/289003"
+		},
+		{
+
+			"KanalAD": "TREK FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/384159"
+		},
+		{
+
+			"KanalAD": "FASHION TV FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/399027"
+		},
+		{
+
+			"KanalAD": "FASHION ONE HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/403228"
+		}
+
+	],
+	"COCUK": [{
+
+			"KanalAD": "TRT COCUK HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8618"
+		},
+		{
+
+			"KanalAD": "NICKTOONS",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/260"
+		},
+		{
+
+			"KanalAD": "BOOMERANG HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/176631"
+		},
+		{
+
+			"KanalAD": "COCUK SMART HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/139521"
+		},
+		{
+
+			"KanalAD": "DISNEY JUNIOR",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7959"
+		},
+		{
+
+			"KanalAD": "SLTV KRAL SAKIR HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/400399"
+		},
+		{
+
+			"KanalAD": "SLTV BARBIE HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/400398"
+		},
+		{
+
+			"KanalAD": "SLTV PEPPA PIG HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/400397"
+		},
+		{
+
+			"KanalAD": "SLTV MASAL HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/392430"
+		},
+		{
+
+			"KanalAD": "SLTV SEKER HOCA HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/321697"
+		},
+		{
+
+			"KanalAD": "SLTV TOM VE JERRY HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299744"
+		},
+		{
+
+			"KanalAD": "SLTV SEVIMLI DOSTLAR HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299743"
+		},
+		{
+
+			"KanalAD": "SLTV RAFADAN TAYFA HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299742"
+		},
+		{
+
+			"KanalAD": "SLTV PIJAMASKELILER HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299741"
+		},
+		{
+
+			"KanalAD": "SLTV MASA ILE KOCA AYI HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299740"
+		},
+		{
+
+			"KanalAD": "SLTV CANIM KARDESIM HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299739"
+		},
+		{
+
+			"KanalAD": "SLTV KUKULI HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164490"
+		},
+		{
+
+			"KanalAD": "SLTV NILOYA HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164360"
+		},
+		{
+
+			"KanalAD": "SLTV PEPEE HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164361"
+		},
+		{
+
+			"KanalAD": "SLTV SIRINLER HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/293696"
+		},
+		{
+
+			"KanalAD": "SLTV GULDUY GULDUY COCUK HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299577"
+		},
+		{
+
+			"KanalAD": "CBEEBIES",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155571"
+		},
+		{
+
+			"KanalAD": "BABY TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7179"
+		},
+		{
+
+			"KanalAD": "MINIKA GO TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1021"
+		},
+		{
+
+			"KanalAD": "MINIKA COCUK",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1868"
+		},
+		{
+
+			"KanalAD": "NICK JR",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/6041"
+		},
+		{
+
+			"KanalAD": "NICKELODEON TURKIYE",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/6053"
+		}
+	],
+	"MUZIK": [{
+
+			"KanalAD": "SLTV ARABESK MUZIK FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391845"
+		},
+		{
+
+			"KanalAD": "SLTV POP MUZIK FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391632"
+		},
+		{
+
+			"KanalAD": "SLTV SLOW MUZIK FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391578"
+		},
+		{
+
+			"KanalAD": "DREAM TURK",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1879"
+		},
+		{
+
+			"KanalAD": "POWER TURK TV HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/396260"
+		},
+		{
+
+			"KanalAD": "POWER TV HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/143084"
+		},
+		{
+
+			"KanalAD": "TATLISES TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/5961"
+		},
+		{
+
+			"KanalAD": "KRAL POP HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/238"
+		},
+		{
+
+			"KanalAD": "KRAL TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/281"
+		},
+		{
+
+			"KanalAD": "NR1 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1866"
+		},
+		{
+
+			"KanalAD": "NR1 TURK HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227675"
+		},
+		{
+
+			"KanalAD": "NR1 DAMAR HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/403226"
+		},
+		{
+
+			"KanalAD": "NR1 ASK HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/403225"
+		},
+		{
+
+			"KanalAD": "TRT MUZIK FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164959"
+		},
+		{
+
+			"KanalAD": "TRT MUZIK",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/263"
+		},
+		{
+
+			"KanalAD": "VATAN TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/150015"
+		},
+		{
+
+			"KanalAD": "EKINTURK TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/293824"
+		},
+		{
+
+			"KanalAD": "MCM TOP HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240518"
+		},
+		{
+
+			"KanalAD": "MEZZO HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2202"
+		},
+		{
+
+			"KanalAD": "ANADOLU DERNEK",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8132"
+		},
+		{
+
+			"KanalAD": "MTV HITS",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/260099"
+		},
+		{
+
+			"KanalAD": "MTV HITS HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/260098"
+		},
+		{
+
+			"KanalAD": "TMB",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177141"
+		}
+
+	],
+	"SINEMA": [{
+
+			"KanalAD": "SLTV WESTERN HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/403414"
+		},
+		{
+
+			"KanalAD": "SLTV SINEMA TURK HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/133353"
+		},
+		{
+
+			"KanalAD": "SLTV ACTION HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8344"
+		},
+		{
+
+			"KanalAD": "SLTV PREMIUM HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/133813"
+		},
+		{
+
+			"KanalAD": "SLTV GOLD HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30447"
+		},
+		{
+
+			"KanalAD": "SLTV KOMEDI HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30448"
+		},
+		{
+
+			"KanalAD": "SLTV LOCA FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/183224"
+		},
+		{
+
+			"KanalAD": "SLTV KEMAL SUNAL",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/138595"
+		},
+		{
+
+			"KanalAD": "SLTV KEMAL SUNAL 1",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162406"
+		},
+		{
+
+			"KanalAD": "SLTV KEMAL SUNAL 2",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162589"
+		},
+		{
+
+			"KanalAD": "SLTV YESILCAM 1",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162404"
+		},
+		{
+
+			"KanalAD": "SLTV YESILCAM 2",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162405"
+		},
+		{
+
+			"KanalAD": "SLTV YESILCAM 3",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164040"
+		},
+		{
+
+			"KanalAD": "BEIN MOVIES STARS HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132400"
+		},
+		{
+
+			"KanalAD": "BEIN MOVIES TURK HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132710"
+		},
+		{
+
+			"KanalAD": "BEIN MOVIES PREMIER  HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132402"
+		},
+		{
+
+			"KanalAD": "BEIN MOVIES PREMIER 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132709"
+		},
+		{
+
+			"KanalAD": "BEIN MOVIES ACTION HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/138922"
+		},
+		{
+
+			"KanalAD": "BEIN MOVIES ACTION 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132708"
+		},
+		{
+
+			"KanalAD": "BEIN MOVIES FAMILY HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132398"
+		},
+		{
+
+			"KanalAD": "BEIN SERIES DRAMA HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134194"
+		},
+		{
+
+			"KanalAD": "BEIN SERIES SCI-FI HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134192"
+		},
+		{
+
+			"KanalAD": "BEIN SERIES VICE HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134193"
+		},
+		{
+
+			"KanalAD": "BEIN SERIES COMEDY HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134195"
+		},
+		{
+
+			"KanalAD": "BEIN BOX OFFICE 1 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/567"
+		},
+		{
+
+			"KanalAD": "BEIN BOX OFFICE 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/548"
+		},
+		{
+
+			"KanalAD": "BEIN BOX OFFICE 3 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/569"
+		},
+		{
+
+			"KanalAD": "SINEMA TV HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/201417"
+		},
+		{
+
+			"KanalAD": "SINEMA TV 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/201416"
+		},
+		{
+
+			"KanalAD": "SINEMA TV YERLI HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/201419"
+		},
+		{
+
+			"KanalAD": "SINEMA TV YERLI 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/404989"
+		},
+		{
+
+			"KanalAD": "SINEMA TV AKSIYON HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155746"
+		},
+		{
+
+			"KanalAD": "SINEMA TV AKSIYON 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132716"
+		},
+		{
+
+			"KanalAD": "SINEMA TV KOMEDI HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155748"
+		},
+		{
+
+			"KanalAD": "SINEMA TV KOMEDI 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132717"
+		},
+		{
+
+			"KanalAD": "SINEMA TV AILE HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155747"
+		},
+		{
+
+			"KanalAD": "SINEMA TV AILE 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/405208"
+		},
+		{
+
+			"KanalAD": "SINEMA TV 1001 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162654"
+		},
+		{
+
+			"KanalAD": "SINEMA TV 1002 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132712"
+		},
+		{
+
+			"KanalAD": "MOVIESMART TURK HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132718"
+		},
+		{
+
+			"KanalAD": "MOVIESMART CLASSIC HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/139527"
+		},
+		{
+
+			"KanalAD": "DIZISMART PREMIUM HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132715"
+		},
+		{
+
+			"KanalAD": "FX HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130853"
+		},
+		{
+
+			"KanalAD": "FOX CRIME HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130852"
+		},
+		{
+
+			"KanalAD": "BLU TV AKSIYON HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/368289"
+		},
+		{
+
+			"KanalAD": "BLU TV KOMEDI HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391898"
+		},
+		{
+
+			"KanalAD": "BLU TV ÖZEL YAPIM HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391897"
+		},
+		{
+
+			"KanalAD": "BLU TV NOSTALJI HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391896"
+		},
+		{
+
+			"KanalAD": "MAX UHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/329697"
+		},
+		{
+
+			"KanalAD": "MAX HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/329696"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 1 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202694"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202693"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 3 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202692"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 4 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202690"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 5 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202689"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 6 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202688"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 7 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202687"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 8 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202686"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 9 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202685"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 10 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202676"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 11 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202683"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 12 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202684"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 13 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202680"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 14 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202679"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 15 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202678"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 16 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202677"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 17 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202675"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 18 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202669"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 19 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/201418"
+		},
+		{
+
+			"KanalAD": "CINE OFFICE 20 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202663"
+		},
+		{
+
+			"KanalAD": "CINE YESILCAM 1 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/417715"
+		},
+		{
+
+			"KanalAD": "CINE YESILCAM 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/417714"
+		},
+		{
+
+			"KanalAD": "CINE YESILCAM 3 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/417713"
+		},
+		{
+
+			"KanalAD": "CINE YESILCAM 4 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/417712"
+		},
+		{
+
+			"KanalAD": "CINE YESILCAM 5 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/417711"
+		},
+		{
+
+			"KanalAD": "YERLI BOX 1 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/416789"
+		},
+		{
+
+			"KanalAD": "YERLI BOX 2 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/416788"
+		},
+		{
+
+			"KanalAD": "YERLI BOX 3 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/416787"
+		},
+		{
+
+			"KanalAD": "YERLI BOX 4 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/416786"
+		},
+		{
+
+			"KanalAD": "YERLI BOX 5 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/416785"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE AKSIYON",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318439"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE CHARLIE CHAPLIN",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318438"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE CHRISTMAS",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318437"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE COCUK",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318436"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE FANTASTIK",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318435"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE GOLD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318434"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE KARATE",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318433"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE KOMEDI",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318432"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE KORKU",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318431"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE MARVEL STUDIOS",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318430"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE MATRIX",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318429"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE NETFLIX",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318428"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE SIYAHBEYAZ",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318427"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE KEMALSUNAL",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318426"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE TESTERE",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318425"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE TURK",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318424"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE WESTERN",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318423"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE YESILCAM",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318422"
+		},
+		{
+
+			"KanalAD": "VIP NEOCINE ZOR ÖLÜM",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318421"
+		},
+		{
+
+			"KanalAD": "VIP FILMBOX HD AKSIYON",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318419"
+		},
+		{
+
+			"KanalAD": "VIP FILMBOX HD FANTASTIK",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318416"
+		},
+		{
+
+			"KanalAD": "VIP FILMBOX HD DRAM",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318415"
+		},
+		{
+
+			"KanalAD": "VIP FILMBOX HD KOMEDI",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318413"
+		},
+		{
+
+			"KanalAD": "VIP FILMBOX HD KORKU",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318412"
+		},
+		{
+
+			"KanalAD": "VIP FILMBOX HD YESILCAM",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318409"
+		},
+		{
+
+			"KanalAD": "BBC FIRST FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/416906"
+		},
+		{
+
+			"KanalAD": "EPIC DRAMA FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/412590"
+		},
+		{
+
+			"KanalAD": "FILMBOX ARTHOUSE HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/412589"
+		},
+		{
+
+			"KanalAD": "FILMBOX EXTRA FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/412588"
+		},
+		{
+
+			"KanalAD": "FILMBOX FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/412587"
+		},
+		{
+
+			"KanalAD": "MAX 007 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145095"
+		},
+		{
+
+			"KanalAD": "MAX AKSIYON 1 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145094"
+		},
+		{
+
+			"KanalAD": "MAX AKSIYON 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145084"
+		},
+		{
+
+			"KanalAD": "MAX ANIMASYON 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145093"
+		},
+		{
+
+			"KanalAD": "MAX ANIMASYON 1 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145092"
+		},
+		{
+
+			"KanalAD": "MAX GOLD HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145090"
+		},
+		{
+
+			"KanalAD": "MAX KINO COLLECTION HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145091"
+		},
+		{
+
+			"KanalAD": "MAX PLUS HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145089"
+		},
+		{
+
+			"KanalAD": "MAX PREMIER HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145088"
+		},
+		{
+
+			"KanalAD": "MAX STAR WARS HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145087"
+		},
+		{
+
+			"KanalAD": "MAX TURK HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145086"
+		},
+		{
+
+			"KanalAD": "MAX VIZYON 1 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202636"
+		},
+		{
+
+			"KanalAD": "MAX VIZYON 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145085"
+		},
+		{
+
+			"KanalAD": "MAX VIZYON 3 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145083"
+		},
+		{
+
+			"KanalAD": "MAX VIZYON 4 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145103"
+		},
+		{
+
+			"KanalAD": "MAX WESTERN HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145082"
+		}
+
+
+	],
+	"SPOR": [{
+
+			"KanalAD": "TRT SPOR HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1028"
+		},
+		{
+
+			"KanalAD": "TRT SPOR FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128288"
+		},
+		{
+
+			"KanalAD": "TRT SPOR YILDIZ HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/216022"
+		},
+		{
+
+			"KanalAD": "A SPOR HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1883"
+		},
+		{
+
+			"KanalAD": "A SPOR FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164957"
+		},
+		{
+
+			"KanalAD": "TRT SPOR HEVC",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/280799"
+		},
+		{
+
+			"KanalAD": "A SPOR HEVC",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/280800"
+		},
+		{
+
+			"KanalAD": "TJK",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8571"
+		},
+		{
+
+			"KanalAD": "FB TV HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378165"
+		},
+		{
+
+			"KanalAD": "FIGHTBOX HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240517"
+		},
+		{
+
+			"KanalAD": "TAY TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/129265"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS HABER HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/129036"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS HABER FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/383650"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 1 FHD (HQ)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/138606"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 1 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/269058"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 1 HEVC",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/224566"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 1 HD (LQ)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/6046"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 1 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123295"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 1 HD*",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/374534"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 1 HD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/189369"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 1 FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299611"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 1 4K - UHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/269994"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 1 SD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/138607"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 2 HEVC",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177939"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/631"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 2 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7595"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 2 FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/294661"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 2 SD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371296"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 3 HEVC",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177940"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 3 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162816"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 3 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7596"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 3 SD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/294662"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 4 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123298"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 4 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7597"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS 4 SD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/294663"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS MAX 1 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/114448"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS MAX 1  FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162818"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS MAX 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/114449"
+		},
+		{
+
+			"KanalAD": "BEIN SPORTS MAX 2 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162819"
+		},
+		{
+
+			"KanalAD": "BEIN CONNECT HD 1 (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350292"
+		},
+		{
+
+			"KanalAD": "BEIN CONNECT HD 2 (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350291"
+		},
+		{
+
+			"KanalAD": "BEIN CONNECT HD 3 (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350290"
+		},
+		{
+
+			"KanalAD": "BEIN CONNECT HD 4 (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350289"
+		},
+		{
+
+			"KanalAD": "BEIN CONNECT HD 5 (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350288"
+		},
+		{
+
+			"KanalAD": "BEIN CONNECT HD 6 (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350287"
+		},
+		{
+
+			"KanalAD": "SPOR SMART HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/286779"
+		},
+		{
+
+			"KanalAD": "SPOR SMART FHD*",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/92363"
+		},
+		{
+
+			"KanalAD": "SPOR SMART FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/6050"
+		},
+		{
+
+			"KanalAD": "SPOR SMART 2 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/236111"
+		},
+		{
+
+			"KanalAD": "S SPORT HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/285910"
+		},
+		{
+
+			"KanalAD": "S SPORT FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/115503"
+		},
+		{
+
+			"KanalAD": "S SPORT 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/193396"
+		},
+		{
+
+			"KanalAD": "S SPORT 2 FHD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299043"
+		},
+		{
+
+			"KanalAD": "S SPORT+ 1 FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371289"
+		},
+		{
+
+			"KanalAD": "S SPORT+ 2 FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371288"
+		},
+		{
+
+			"KanalAD": "S SPORT+ 3 FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371287"
+		},
+		{
+
+			"KanalAD": "S SPORT+ 4 FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371286"
+		},
+		{
+
+			"KanalAD": "S SPORT+ 5 FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371285"
+		},
+		{
+
+			"KanalAD": "S SPORT+ 6 FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371284"
+		},
+		{
+
+			"KanalAD": "S SPORT+ 7 FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/399026"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 1 FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371283"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 1 HD (LQ) (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/381152"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 1 HD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299610"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 1 SD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/369337"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 2 HD - FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371282"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 3 HD - FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371281"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 4 HD - FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378875"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 5 HD - FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378873"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 6 HD - FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378871"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 7 HD - FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391895"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 8 HD - FHD (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/391894"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 1 HD - FHD* (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389174"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 2 HD - FHD* (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389173"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 3 HD - FHD* (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389172"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 4 HD - FHD* (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389171"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 5 HD - FHD* (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389170"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 6 HD - FHD* (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389169"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 7 HD - FHD* (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389168"
+		},
+		{
+
+			"KanalAD": "EXXEN SPORT 8 HD - FHD* (Mac Zamani)",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389167"
+		},
+		{
+
+			"KanalAD": "TIVIBU SPOR HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1468"
+		},
+		{
+
+			"KanalAD": "TIVIBU SPOR 2 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/6049"
+		},
+		{
+
+			"KanalAD": "TIVIBU SPOR 3 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/198443"
+		},
+		{
+
+			"KanalAD": "TIVIBU SPOR 4 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/386687"
+		},
+		{
+
+			"KanalAD": "TIVIBU SPOR 5 HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/399025"
+		},
+		{
+
+			"KanalAD": "SPORTS TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2105"
+		},
+		{
+
+			"KanalAD": "NBA HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/13245"
+		},
+		{
+
+			"KanalAD": "GS TV HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2626"
+		},
+		{
+
+			"KanalAD": "FB TV",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2028"
+		}
+
+	],
+	"EGITIM": [{
+
+			"KanalAD": "TRT EBA TV ORTAOKUL HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240531"
+		},
+		{
+
+			"KanalAD": "TRT EBA TV LISE HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240532"
+		},
+		{
+
+			"KanalAD": "TRT EBA TV ILKOKUL HD",
+			"KanalLOGO": "",
+			"KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240530"
+		}
+	]
+
+}
