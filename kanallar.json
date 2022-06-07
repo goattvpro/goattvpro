@@ -14,7 +14,7 @@
     {
         "KanalKategori": "ULUSAL",
         "KanalAD": "SHOW TV HD",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/ss/show-tv-tr.svg",
+        "KanalLOGO": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png",
         "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2588"
     },
     {
@@ -26,13 +26,13 @@
     {
         "KanalKategori": "ULUSAL",
         "KanalAD": "STAR TV HD",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/ss/star-tv-tr.svg",
+        "KanalLOGO": "https://cdn.freelogovectors.net/wp-content/uploads/2018/04/Star_TV_Logo.png",
         "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2104"
     },
     {
         "KanalKategori": "ULUSAL",
         "KanalAD": "FOX TV HD",
-        "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/ff/fox-us.svg",
+        "KanalLOGO": "https://cdn.freelogovectors.net/wp-content/uploads/2020/03/fox-turkiye-logo.png",
         "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2585"
     },
     {
