@@ -2391,10 +2391,11 @@
         }
     ],
 
-    "SPOR": [
+    "EGITIM": [
         {
             "KanalAD": "Deneme",
             "KanalLOGO": "",
             "KanalURL": ""
-        }]
+        }
+]
 }
