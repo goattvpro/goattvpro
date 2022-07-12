@@ -2389,5 +2389,12 @@
             "KanalLOGO": "",
             "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145082"
         }
-    ]
+    ],
+
+    "SPOR": [
+        {
+            "KanalAD": "Deneme",
+            "KanalLOGO": "",
+            "KanalURL": ""
+        }]
 }
