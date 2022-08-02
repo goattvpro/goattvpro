@@ -2389,22 +2389,5 @@
             "KanalLOGO": "",
             "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145082"
         }
-    ],
-    "EGITIM": [
-        {
-            "KanalAD": "TRT EBA TV ORTAOKUL HD",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/ee/eba-tv-ortaokul-tr.png",
-            "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240531"
-        },
-        {
-            "KanalAD": "TRT EBA TV LISE HD",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/ee/eba-tv-lise-tr.png",
-            "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240532"
-        },
-        {
-            "KanalAD": "TRT EBA TV ILKOKUL HD",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/ee/eba-tv-ilkokul-tr.png",
-            "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240530"
-        }
-    ],
+    ]
 }
