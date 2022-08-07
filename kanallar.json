@@ -448,19 +448,9 @@
             "KanalURL": "https://tv-trt2.live.trt.com.tr/master.m3u8"
         },
         {
-            "KanalAD": "FOX TV HD | A",
+            "KanalAD": "FOX TV HD",
             "KanalLOGO": "https://i.hizliresim.com/q0jekkv.png",
-            "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227678"
-        },
-        {
-            "KanalAD": "FOX TV HD | B",
-            "KanalLOGO": "https://i.hizliresim.com/q0jekkv.png",
-            "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187760"
-        },
-        {
-            "KanalAD": "FOX TV HD | C",
-            "KanalLOGO": "https://i.hizliresim.com/q0jekkv.png",
-            "KanalURL": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2585"
+            "KanalURL": "https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1659929947&st=hhcF10zUTaW-B2snDqqTFg"
         },
         {
             "KanalAD": "KANAL D HD | A",
