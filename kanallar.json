@@ -43,15 +43,9 @@
             "KanalURL": ""
         },
         {
-            "KanalNO": "08",
-            "KanalAD": "SPOR SMART",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/ss/spor-smart-tr.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalNO": "09",
-            "KanalAD": "SPOR SMART 2",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/ss/spor-smart-2-tr.png",
+            "KanalNO": "28",
+            "KanalAD": "BEIN CONNECT HD | Maç Zamanı",
+            "KanalLOGO": "https://i.hizliresim.com/picii0n.png",
             "KanalURL": ""
         },
         {
@@ -64,6 +58,18 @@
             "KanalNO": "11",
             "KanalAD": "S SPORT 2 HD",
             "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png",
+            "KanalURL": ""
+        },
+        {
+            "KanalNO": "30",
+            "KanalAD": "S SPORT+ HD | Maç Zamanı",
+            "KanalLOGO": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ssport-plus-.png",
+            "KanalURL": ""
+        },
+        {
+            "KanalNO": "29",
+            "KanalAD": "EXXEN SPORT HD | Maç Zamanı",
+            "KanalLOGO": "https://i.hizliresim.com/8gu2f9t.png",
             "KanalURL": ""
         },
         {
@@ -127,6 +133,18 @@
             "KanalURL": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
         },
         {
+            "KanalNO": "08",
+            "KanalAD": "SPOR SMART",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/ss/spor-smart-tr.png",
+            "KanalURL": ""
+        },
+        {
+            "KanalNO": "09",
+            "KanalAD": "SPOR SMART 2",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/ss/spor-smart-2-tr.png",
+            "KanalURL": ""
+        },
+        {
             "KanalNO": "22",
             "KanalAD": "SPORTS TV",
             "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/ss/sports_tv_tr.png",
@@ -161,24 +179,6 @@
             "KanalAD": "IDMAN TV",
             "KanalLOGO": "",
             "KanalURL": "http://109.205.166.68/server124/idman_az/index.m3u8"
-        },
-        {
-            "KanalNO": "28",
-            "KanalAD": "BEIN CONNECT HD | Maç Zamanı",
-            "KanalLOGO": "https://i.hizliresim.com/picii0n.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalNO": "29",
-            "KanalAD": "EXXEN SPORT HD | Maç Zamanı",
-            "KanalLOGO": "https://i.hizliresim.com/8gu2f9t.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalNO": "30",
-            "KanalAD": "S SPORT+ HD | Maç Zamanı",
-            "KanalLOGO": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ssport-plus-.png",
-            "KanalURL": ""
         }
     ],
     "ULUSAL": [
@@ -191,7 +191,7 @@
         {
             "KanalNO": "02",
             "KanalAD": "TRT 2 HD",
-            "KanalLOGO": "https://i.hizliresim.com/nkfjmy9.png",
+            "KanalLOGO": "https://i.hizliresim.com/4lofjw6.png",
             "KanalURL": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
         },
         {
