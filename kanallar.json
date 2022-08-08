@@ -3,12 +3,12 @@
         {
             "KanalAD": "BEIN SPORTS 1",
             "KanalLOGO": "https://i.hizliresim.com/gsoxw98.png",
-            "KanalURL": "https://m3u-editor.com/serve/lw744-haha/586631569"
+            "KanalURL": ""
         },
         {
             "KanalAD": "BEIN SPORTS 2",
             "KanalLOGO": "https://i.hizliresim.com/nap4kja.png",
-            "KanalURL": "https://m3u-editor.com/serve/lw744-haha/586631570"
+            "KanalURL": ""
         },
         {
             "KanalAD": "BEIN SPORTS 3",
@@ -43,7 +43,7 @@
         {
             "KanalAD": "S SPORT HD",
             "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png",
-            "KanalURL": "https://m3u-editor.com/serve/lw744-haha/586631575"
+            "KanalURL": ""
         },
         {
             "KanalAD": "S SPORT 2 HD",
@@ -78,7 +78,7 @@
         {
             "KanalAD": "BEIN SPORTS HABER HD",
             "KanalLOGO": "https://i.hizliresim.com/sff7dhd.jpg",
-            "KanalURL": "https://m3u-editor.com/serve/lw744-haha/586631568"
+            "KanalURL": ""
         },
         {
             "KanalAD": "A SPOR HD",
@@ -268,11 +268,6 @@
             "KanalURL": "https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8"
         },
         {
-            "KanalAD": "CEM TV",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/cc/cem-tv-tr.png",
-            "KanalURL": ""
-        },
-        {
             "KanalAD": "TRT TURK",
             "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/trt-turk-tr.png",
             "KanalURL": "https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8"
@@ -298,23 +293,8 @@
             "KanalURL": ""
         },
         {
-            "KanalAD": "BRT 1 HD",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/bayrak_radyosu_tv_1.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "BRT 2 HD",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/brt-2-cy.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "BRT 3 HD",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/brt-3-cy.png",
-            "KanalURL": ""
-        },
-        {
             "KanalAD": "4EYLUL TV",
-            "KanalLOGO": "",
+            "KanalLOGO": "https://i.hizliresim.com/swnbq01.jpg",
             "KanalURL": ""
         },
         {
@@ -323,13 +303,40 @@
             "KanalURL": "https://mn-nl.mncdn.com/blutv_vuslattv2/live_720p2000000kbps/index.m3u8"
         },
         {
-            "KanalAD": "ADA TV",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/aa/ada_tv_cy.png",
+            "KanalAD": "AKILLI TV",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/aa/akilli_tv_tr.png",
             "KanalURL": ""
         },
         {
-            "KanalAD": "AKILLI TV",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/aa/akilli_tv_tr.png",
+            "KanalAD": "BBN TURK HD",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/bbn-turk-tr.png",
+            "KanalURL": ""
+        },
+        {
+            "KanalAD": "BENGUTURK TV",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/bengu_turk.png",
+            "KanalURL": "https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8"
+        },
+        {
+            "KanalAD": "TGRT EU",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tgrt_eu.png",
+            "KanalURL": "https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8"
+        },
+        {
+            "KanalAD": "TV 4 HD",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv4_tr.png",
+            "KanalURL": "https://mn-nl.mncdn.com/blutv_tv4/live.m3u8"
+        },
+        {
+            "KanalAD": "UÇANKUŞ TV",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/uu/ucankus-tv-tr.png",
+            "KanalURL": "https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8"
+        }
+    ],
+    "YEREL": [
+        {
+            "KanalAD": "ADA TV",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/aa/ada_tv_cy.png",
             "KanalURL": ""
         },
         {
@@ -353,19 +360,24 @@
             "KanalURL": "http://yerelmedya.tv:1935/astv/bant1/playlist.m3u8"
         },
         {
-            "KanalAD": "BBN TURK HD",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/bbn-turk-tr.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "BENGUTURK TV",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/bengu_turk.png",
-            "KanalURL": "https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8"
-        },
-        {
             "KanalAD": "BEYKENT TV",
             "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/beykent_tv_tr.png",
             "KanalURL": "https://yayin30.haber100.com/live/beykenttv/chunklist.m3u8"
+        },
+        {
+            "KanalAD": "BRT 1 HD",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/bayrak_radyosu_tv_1.png",
+            "KanalURL": ""
+        },
+        {
+            "KanalAD": "BRT 2 HD",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/brt-2-cy.png",
+            "KanalURL": ""
+        },
+        {
+            "KanalAD": "BRT 3 HD",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/bb/brt-3-cy.png",
+            "KanalURL": ""
         },
         {
             "KanalAD": "BRTV B KARADENIZ",
@@ -383,9 +395,9 @@
             "KanalURL": "http://canbroadcast.com:7000/canlican/tv.m3u8"
         },
         {
-            "KanalAD": "ÇAY TV",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/kk/kanal_cay_tr.png",
-            "KanalURL": "http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8"
+            "KanalAD": "CEM TV",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/cc/cem-tv-tr.png",
+            "KanalURL": ""
         },
         {
             "KanalAD": "ÇANKIRI TV",
@@ -393,19 +405,24 @@
             "KanalURL": "https://59cba4d34b678.streamlock.net/canlitv/cankiritv/chunklist_w2138246136.m3u8"
         },
         {
+            "KanalAD": "ÇAY TV",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/kk/kanal_cay_tr.png",
+            "KanalURL": "http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8"
+        },
+        {
             "KanalAD": "DEHA TV DENIZLI",
             "KanalLOGO": "https://i.hizliresim.com/c75oe0i.jpg",
             "KanalURL": "http://yerelmedya.tv:1935/dehatv/bant1/playlist.m3u8"
         },
         {
-            "KanalAD": "DRT DENIZLI",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/dd/drt-denizli-tr.png",
-            "KanalURL": "https://broadcasttr.com:446/drt/bant1/chunklist.m3u8"
-        },
-        {
             "KanalAD": "DENİZ POSTASI TV",
             "KanalLOGO": "https://i.hizliresim.com/4enqx4x.png",
             "KanalURL": "http://yerelmedya.tv:1935/denizpostasitv/bant1/chunks.m3u8"
+        },
+        {
+            "KanalAD": "DRT DENIZLI",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/dd/drt-denizli-tr.png",
+            "KanalURL": "https://broadcasttr.com:446/drt/bant1/chunklist.m3u8"
         },
         {
             "KanalAD": "EDESSA TV",
@@ -448,14 +465,14 @@
             "KanalURL": "https://waw1.artiyerelmedya.net/grt/bant1/chunks.m3u8"
         },
         {
-            "KanalAD": "GURBET 24 TV",
-            "KanalLOGO": "",
-            "KanalURL": "http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8"
-        },
-        {
             "KanalAD": "GUNEYDOGU TV",
             "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/gg/guneydogu-tv-tr.png",
             "KanalURL": ""
+        },
+        {
+            "KanalAD": "GURBET 24 TV",
+            "KanalLOGO": "",
+            "KanalURL": "http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8"
         },
         {
             "KanalAD": "HEDEF TV",
@@ -503,11 +520,6 @@
             "KanalURL": "http://yerelmedya.tv:1935/kanal3/bant1/chunks.m3u8"
         },
         {
-            "KanalAD": "KANAL 5",
-            "KanalLOGO": "",
-            "KanalURL": "https://59cba4d34b678.streamlock.net/canlitv/kanal5/chunklist.m3u8"
-        },
-        {
             "KanalAD": "KANAL 32",
             "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/kk/kanal-32-tr.png",
             "KanalURL": ""
@@ -526,6 +538,11 @@
             "KanalAD": "KANAL 42",
             "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv-42-tr.png",
             "KanalURL": ""
+        },
+        {
+            "KanalAD": "KANAL 5",
+            "KanalLOGO": "",
+            "KanalURL": "https://59cba4d34b678.streamlock.net/canlitv/kanal5/chunklist.m3u8"
         },
         {
             "KanalAD": "KANAL 65",
@@ -603,14 +620,14 @@
             "KanalURL": "https://mn-nl.mncdn.com/blutv_kontv2/live_720p2000000kbps/index.m3u8"
         },
         {
-            "KanalAD": "KÖY TV",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/kk/koy-tv-tr.png",
-            "KanalURL": "https://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8"
-        },
-        {
             "KanalAD": "KOZA TV",
             "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/kk/koza_tv.png",
             "KanalURL": ""
+        },
+        {
+            "KanalAD": "KÖY TV",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/kk/koy-tv-tr.png",
+            "KanalURL": "https://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8"
         },
         {
             "KanalAD": "LIDER TV",
@@ -623,14 +640,14 @@
             "KanalURL": "http://broadcasttr.com:1935/linetv/bant1/playlist.m3u8"
         },
         {
-            "KanalAD": "MANİSA TV",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/mm/manisa-tv-tr.png",
-            "KanalURL": "https://yayin.manisatv.com.tr/live/stream.m3u8"
-        },
-        {
             "KanalAD": "MANİSA ETV",
             "KanalLOGO": "",
             "KanalURL": "http://broadcasttr.com:1935/manisaetv/bant1/chunklist.m3u8"
+        },
+        {
+            "KanalAD": "MANİSA TV",
+            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/mm/manisa-tv-tr.png",
+            "KanalURL": "https://yayin.manisatv.com.tr/live/stream.m3u8"
         },
         {
             "KanalAD": "MAVİ KARADENİZ TV",
@@ -638,14 +655,14 @@
             "KanalURL": "https://waw1.artiyerelmedya.net/mavikaradeniz/bant1/chunks.m3u8"
         },
         {
-            "KanalAD": "MERCAN TV",
-            "KanalLOGO": "",
-            "KanalURL": "http://yerelmedya.tv:1935/mercantv/bant1/playlist.m3u8"
-        },
-        {
             "KanalAD": "MC EU",
             "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/mm/mobility_channel_tr_eu.png",
             "KanalURL": ""
+        },
+        {
+            "KanalAD": "MERCAN TV",
+            "KanalLOGO": "",
+            "KanalURL": "http://yerelmedya.tv:1935/mercantv/bant1/playlist.m3u8"
         },
         {
             "KanalAD": "OLAY TV",
@@ -698,9 +715,9 @@
             "KanalURL": "http://yerelmedya.tv:1935/tempotv/bant1/playlist.m3u8"
         },
         {
-            "KanalAD": "TGRT EU",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tgrt_eu.png",
-            "KanalURL": "https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8"
+            "KanalAD": "TİVİTÜRK HD",
+            "KanalLOGO": "",
+            "KanalURL": "https://stream.tiviturk.de/live/tiviturk.m3u8"
         },
         {
             "KanalAD": "TON TV",
@@ -711,11 +728,6 @@
             "KanalAD": "TORBA TV",
             "KanalLOGO": "",
             "KanalURL": "https://59cba4d34b678.streamlock.net/canlitv/torbatv/chunklist_w502688251.m3u8"
-        },
-        {
-            "KanalAD": "TİVİTÜRK HD",
-            "KanalLOGO": "",
-            "KanalURL": "https://stream.tiviturk.de/live/tiviturk.m3u8"
         },
         {
             "KanalAD": "TV 2020",
@@ -736,11 +748,6 @@
             "KanalAD": "TV 38",
             "KanalLOGO": "",
             "KanalURL": "https://59cba4d34b678.streamlock.net/live/tv38/chunklist.m3u8"
-        },
-        {
-            "KanalAD": "TV 4 HD",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv4_tr.png",
-            "KanalURL": "https://mn-nl.mncdn.com/blutv_tv4/live.m3u8"
         },
         {
             "KanalAD": "TV 41",
@@ -776,11 +783,6 @@
             "KanalAD": "TV1",
             "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/tt/tv-1-tr.png",
             "KanalURL": ""
-        },
-        {
-            "KanalAD": "UCANKUS TV",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/uu/ucankus-tv-tr.png",
-            "KanalURL": "https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8"
         },
         {
             "KanalAD": "URFA FANATİK",
@@ -871,7 +873,7 @@
         },
         {
             "KanalAD": "AKIT TV HD",
-            "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/aa/akilli_tv_tr.png",
+            "KanalLOGO": "https://i.ibb.co/zG7NM55/Jagn7PG.png",
             "KanalURL": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8"
         },
         {
@@ -1019,86 +1021,6 @@
         {
             "KanalAD": "NICKTOONS",
             "KanalLOGO": "https://www.lyngsat-logo.com/logo/tv/nn/nick_toons_us.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV BARBIE HD",
-            "KanalLOGO": "https://i.hizliresim.com/bqvj65m.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV CANIM KARDESIM HD",
-            "KanalLOGO": "https://i.hizliresim.com/1tb4ol1.jpg",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV GULDUY GULDUY COCUK HD",
-            "KanalLOGO": "https://i.hizliresim.com/gjj2o2g.jpg",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV KRAL SAKIR HD",
-            "KanalLOGO": "https://i.hizliresim.com/59p4190.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV KUKULI HD",
-            "KanalLOGO": "https://i.hizliresim.com/tfmp6rp.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV MASA ILE KOCA AYI HD",
-            "KanalLOGO": "https://i.hizliresim.com/g43pvhd.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV MASAL HD",
-            "KanalLOGO": "https://i.hizliresim.com/bcjlt8o.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV NILOYA HD",
-            "KanalLOGO": "https://i.hizliresim.com/mszxvdl.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV PEPEE HD",
-            "KanalLOGO": "https://i.hizliresim.com/dxh7sed.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV PEPPA PIG HD",
-            "KanalLOGO": "https://i.hizliresim.com/1b0yw0o.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV PIJAMASKELILER HD",
-            "KanalLOGO": "https://i.hizliresim.com/gzwbtpk.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV RAFADAN TAYFA HD",
-            "KanalLOGO": "https://i.hizliresim.com/9b28srr.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV SEKER HOCA HD",
-            "KanalLOGO": "https://i.hizliresim.com/kxfcgi0.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV SEVIMLI DOSTLAR HD",
-            "KanalLOGO": "https://i.hizliresim.com/3vq7vp6.jpg",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV SIRINLER HD",
-            "KanalLOGO": "https://i.hizliresim.com/6odqyif.png",
-            "KanalURL": ""
-        },
-        {
-            "KanalAD": "SLTV TOM VE JERRY HD",
-            "KanalLOGO": "https://i.hizliresim.com/rhknuaj.png",
             "KanalURL": ""
         }
     ],
